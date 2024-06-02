@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">TikTakToe</string>
+    <string name="it_s_a_tie">It\'s a tie!</string>
+</resources>
